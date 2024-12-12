@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "http://sunmi-tech.github.io/simple_blog",
+  "homepage": "http://sunmi-tech.github.io/react_simple_blog",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
