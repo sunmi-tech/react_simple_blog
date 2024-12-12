@@ -1,0 +1,67 @@
+div {
+    box-sizing: border-box;
+}
+
+.black-nav {
+    display: flex;
+    background-color: black;
+    width: 100%;
+    color: white;
+    padding-left: 20px;
+}
+
+button {
+    border: none;
+    padding: 10px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.blue_btn {
+    background-color: rgb(142, 194, 243);
+    margin-right: 5px;
+}
+
+.pink_btn {
+    background-color: rgb(253, 206, 253);
+}
+
+.delete_btn {
+    margin-bottom: 10px;
+    width: 100px;
+}
+
+.list {
+    padding-left: 20px;
+    text-align: left;
+    border-bottom: 1px solid #eee;
+}
+
+.list h4 {
+    font-size: 1.5rem;
+}
+
+.list h4 span {
+    margin-left: 10px;
+    cursor: pointer;
+}
+
+.list p {
+    color: #999;
+}
+
+.modal{
+    margin-top : 20px;
+    padding : 20px;
+    background : #eee;
+    text-align : left;
+}
+
+input {
+    margin-top: 1.25rem;
+    width: 500px;
+    padding: 10px;
+    border: 1px solid #c5c5c5;
+    margin: 15px;
+    border-radius: 5px;
+}
